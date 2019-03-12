@@ -1,2 +1,14 @@
 language: csharp
 solution: HADSProject.sln
+matrix:
+  include:
+    - dotnet: 2.1.502
+      mono: none
+      env: DOTNETCORE=2
+    - mono: latest
+install:
+  - nuget restore HADSProject.sln
+  - nuget install NUnit.Console -Version 3.9.0 -OutputDirectory testrunner
+script:
+  - msbuild /p:Configuration=Release HADSProject.sln
+  - mono ./testrunner/NUnit.ConsoleRunner.3.9.0/tools/nunit3-console.exe ./Test/bin/Release/Test.dll
