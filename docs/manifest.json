@@ -558,7 +558,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/toc.html",
-          "hash": "PPDfLP4vPLVGlSlag7Qhhg=="
+          "hash": "Ij77C3EsfRUmAU1QvUpYiw=="
         }
       },
       "is_incremental": false,
@@ -604,7 +604,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "lsUEmcsYHuVzuraI+A4LZg=="
+          "hash": "l0cV1PwpsOl+SmZCk6LomQ=="
         }
       },
       "is_incremental": false,
@@ -622,9 +622,9 @@
         "full_build_reason_code": "ForceRebuild"
       },
       "processors": {
-        "TocDocumentProcessor": {
+        "ResourceDocumentProcessor": {
           "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
           "total_file_count": 0,
           "skipped_file_count": 0

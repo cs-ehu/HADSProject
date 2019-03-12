@@ -117,7 +117,6 @@ items:
   - System.Web.UI.Page.AutoPostBackControl
   - System.Web.UI.Page.Header
   - System.Web.UI.Page.MaintainScrollPositionOnPostBack
-  - System.Web.UI.Page.Master
   - System.Web.UI.Page.MasterPageFile
   - System.Web.UI.Page.PageStatePersister
   - System.Web.UI.Page.Trace
@@ -294,6 +293,41 @@ items:
   modifiers.vb:
   - Public
   - Class
+- uid: WebApplication.UserPage.TareasAlumno.DataAccess
+  commentId: P:WebApplication.UserPage.TareasAlumno.DataAccess
+  id: DataAccess
+  parent: WebApplication.UserPage.TareasAlumno
+  langs:
+  - csharp
+  - vb
+  name: DataAccess
+  nameWithType: TareasAlumno.DataAccess
+  fullName: WebApplication.UserPage.TareasAlumno.DataAccess
+  type: Property
+  source:
+    remote:
+      path: WebApplication/UserPages/TareasAlumno.aspx.cs
+      branch: FerMod
+      repo: git@github.com:FerMod/HADSProject.git
+    id: DataAccess
+    path: ../WebApplication/UserPages/TareasAlumno.aspx.cs
+    startLine: 17
+  assemblies:
+  - WebApplication
+  namespace: WebApplication.UserPage
+  syntax:
+    content: public DataAccessService DataAccess { get; }
+    parameters: []
+    return:
+      type: DataBaseAccess.DataAccessService
+    content.vb: Public ReadOnly Property DataAccess As DataAccessService
+  overload: WebApplication.UserPage.TareasAlumno.DataAccess*
+  modifiers.csharp:
+  - public
+  - get
+  modifiers.vb:
+  - Public
+  - ReadOnly
 - uid: WebApplication.UserPage.TareasAlumno.Page_Load(System.Object,System.EventArgs)
   commentId: M:WebApplication.UserPage.TareasAlumno.Page_Load(System.Object,System.EventArgs)
   id: Page_Load(System.Object,System.EventArgs)
@@ -429,9 +463,11 @@ items:
       type: System.Web.UI.WebControls.GridView
     content.vb: Protected GridViewTasks As GridView
   modifiers.csharp:
-  - protected
+  - public
+  - get
   modifiers.vb:
-  - Protected
+  - Public
+  - ReadOnly
 references:
 - uid: WebApplication.UserPage
   commentId: N:WebApplication.UserPage
@@ -2909,13 +2945,6 @@ references:
   name: MaintainScrollPositionOnPostBack
   nameWithType: Page.MaintainScrollPositionOnPostBack
   fullName: System.Web.UI.Page.MaintainScrollPositionOnPostBack
-- uid: System.Web.UI.Page.Master
-  commentId: P:System.Web.UI.Page.Master
-  parent: System.Web.UI.Page
-  isExternal: true
-  name: Master
-  nameWithType: Page.Master
-  fullName: System.Web.UI.Page.Master
 - uid: System.Web.UI.Page.MasterPageFile
   commentId: P:System.Web.UI.Page.MasterPageFile
   parent: System.Web.UI.Page
@@ -7437,6 +7466,22 @@ references:
   - name: )
     nameWithType: )
     fullName: )
+- uid: WebApplication.UserPage.TareasAlumno.DataAccess*
+  commentId: Overload:WebApplication.UserPage.TareasAlumno.DataAccess
+  name: DataAccess
+  nameWithType: TareasAlumno.DataAccess
+  fullName: WebApplication.UserPage.TareasAlumno.DataAccess
+- uid: DataBaseAccess.DataAccessService
+  commentId: T:DataBaseAccess.DataAccessService
+  parent: DataBaseAccess
+  name: DataAccessService
+  nameWithType: DataAccessService
+  fullName: DataBaseAccess.DataAccessService
+- uid: DataBaseAccess
+  commentId: N:DataBaseAccess
+  name: DataBaseAccess
+  nameWithType: DataBaseAccess
+  fullName: DataBaseAccess
 - uid: WebApplication.UserPage.TareasAlumno.Page_Load*
   commentId: Overload:WebApplication.UserPage.TareasAlumno.Page_Load
   name: Page_Load

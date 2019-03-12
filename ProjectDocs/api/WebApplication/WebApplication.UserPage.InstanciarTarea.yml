@@ -114,7 +114,6 @@ items:
   - System.Web.UI.Page.AutoPostBackControl
   - System.Web.UI.Page.Header
   - System.Web.UI.Page.MaintainScrollPositionOnPostBack
-  - System.Web.UI.Page.Master
   - System.Web.UI.Page.MasterPageFile
   - System.Web.UI.Page.PageStatePersister
   - System.Web.UI.Page.Trace
@@ -2803,13 +2802,6 @@ references:
   name: MaintainScrollPositionOnPostBack
   nameWithType: Page.MaintainScrollPositionOnPostBack
   fullName: System.Web.UI.Page.MaintainScrollPositionOnPostBack
-- uid: System.Web.UI.Page.Master
-  commentId: P:System.Web.UI.Page.Master
-  parent: System.Web.UI.Page
-  isExternal: true
-  name: Master
-  nameWithType: Page.Master
-  fullName: System.Web.UI.Page.Master
 - uid: System.Web.UI.Page.MasterPageFile
   commentId: P:System.Web.UI.Page.MasterPageFile
   parent: System.Web.UI.Page
