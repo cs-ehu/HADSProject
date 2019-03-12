@@ -17,8 +17,12 @@ items:
   fullName: WebApplication.Account
   type: Class
   source:
+    remote:
+      path: WebApplication/Account.master.designer.cs
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Account
-    path: D:\Users\Ferran Tudela\source\repos\HADSProject\WebApplication\Account.master.designer.cs
+    path: ../WebApplication/Account.master.designer.cs
     startLine: 12
   assemblies:
   - WebApplication
@@ -230,9 +234,13 @@ items:
   fullName: WebApplication.Account.Page_Load(System.Object, System.EventArgs)
   type: Method
   source:
+    remote:
+      path: WebApplication/Account.master.cs
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Page_Load
-    path: D:\Users\Ferran Tudela\source\repos\HADSProject\WebApplication\Account.master.cs
-    startLine: 8
+    path: ../WebApplication/Account.master.cs
+    startLine: 9
   assemblies:
   - WebApplication
   namespace: WebApplication
@@ -261,8 +269,12 @@ items:
   fullName: WebApplication.Account.logIn
   type: Field
   source:
+    remote:
+      path: WebApplication/Account.master.designer.cs
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: logIn
-    path: D:\Users\Ferran Tudela\source\repos\HADSProject\WebApplication\Account.master.designer.cs
+    path: ../WebApplication/Account.master.designer.cs
     startLine: 21
   assemblies:
   - WebApplication
@@ -291,8 +303,12 @@ items:
   fullName: WebApplication.Account.createAccount
   type: Field
   source:
+    remote:
+      path: WebApplication/Account.master.designer.cs
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: createAccount
-    path: D:\Users\Ferran Tudela\source\repos\HADSProject\WebApplication\Account.master.designer.cs
+    path: ../WebApplication/Account.master.designer.cs
     startLine: 30
   assemblies:
   - WebApplication
@@ -321,8 +337,12 @@ items:
   fullName: WebApplication.Account.AccountCardBodyContent
   type: Field
   source:
+    remote:
+      path: WebApplication/Account.master.designer.cs
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: AccountCardBodyContent
-    path: D:\Users\Ferran Tudela\source\repos\HADSProject\WebApplication\Account.master.designer.cs
+    path: ../WebApplication/Account.master.designer.cs
     startLine: 39
   assemblies:
   - WebApplication
