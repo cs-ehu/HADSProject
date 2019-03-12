@@ -21,8 +21,8 @@ items:
   source:
     remote:
       path: WebApplication/WebNotification.aspx.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: WebNotification
     path: ../WebApplication/WebNotification.aspx.designer.cs
     startLine: 12
@@ -310,8 +310,8 @@ items:
   source:
     remote:
       path: WebApplication/WebNotification.aspx.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Page_Load
     path: ../WebApplication/WebNotification.aspx.cs
     startLine: 13
@@ -345,8 +345,8 @@ items:
   source:
     remote:
       path: WebApplication/WebNotification.aspx.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: UpdateContent
     path: ../WebApplication/WebNotification.aspx.cs
     startLine: 22
@@ -378,8 +378,8 @@ items:
   source:
     remote:
       path: WebApplication/WebNotification.aspx.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Alert
     path: ../WebApplication/WebNotification.aspx.designer.cs
     startLine: 21
@@ -412,8 +412,8 @@ items:
   source:
     remote:
       path: WebApplication/WebNotification.aspx.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: AlertTitle
     path: ../WebApplication/WebNotification.aspx.designer.cs
     startLine: 30
@@ -446,8 +446,8 @@ items:
   source:
     remote:
       path: WebApplication/WebNotification.aspx.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: AlertBody
     path: ../WebApplication/WebNotification.aspx.designer.cs
     startLine: 39
@@ -480,8 +480,8 @@ items:
   source:
     remote:
       path: WebApplication/WebNotification.aspx.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: AlertCloseButton
     path: ../WebApplication/WebNotification.aspx.designer.cs
     startLine: 48

@@ -15,8 +15,8 @@ items:
   source:
     remote:
       path: WebApplication/AppConfig.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: AppConfig
     path: ../WebApplication/AppConfig.cs
     startLine: 11

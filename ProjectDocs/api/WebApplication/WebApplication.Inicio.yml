@@ -23,8 +23,8 @@ items:
   source:
     remote:
       path: WebApplication/Inicio.aspx.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Inicio
     path: ../WebApplication/Inicio.aspx.designer.cs
     startLine: 12
@@ -311,8 +311,8 @@ items:
   source:
     remote:
       path: WebApplication/Inicio.aspx.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Page_Load
     path: ../WebApplication/Inicio.aspx.cs
     startLine: 17
@@ -346,11 +346,11 @@ items:
   source:
     remote:
       path: WebApplication/Inicio.aspx.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: ButtonLogin_Click
     path: ../WebApplication/Inicio.aspx.cs
-    startLine: 27
+    startLine: 25
   assemblies:
   - WebApplication
   namespace: WebApplication
@@ -381,8 +381,8 @@ items:
   source:
     remote:
       path: WebApplication/Inicio.aspx.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: textBoxEmail
     path: ../WebApplication/Inicio.aspx.designer.cs
     startLine: 21
@@ -415,8 +415,8 @@ items:
   source:
     remote:
       path: WebApplication/Inicio.aspx.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: RequiredFieldEmail
     path: ../WebApplication/Inicio.aspx.designer.cs
     startLine: 30
@@ -449,8 +449,8 @@ items:
   source:
     remote:
       path: WebApplication/Inicio.aspx.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: textBoxPassword
     path: ../WebApplication/Inicio.aspx.designer.cs
     startLine: 39
@@ -483,8 +483,8 @@ items:
   source:
     remote:
       path: WebApplication/Inicio.aspx.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: RequiredFieldPassword
     path: ../WebApplication/Inicio.aspx.designer.cs
     startLine: 48
@@ -517,8 +517,8 @@ items:
   source:
     remote:
       path: WebApplication/Inicio.aspx.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: buttonLogin
     path: ../WebApplication/Inicio.aspx.designer.cs
     startLine: 57

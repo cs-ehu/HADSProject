@@ -27,8 +27,8 @@ items:
   source:
     remote:
       path: EmailLib/Framework/SmtpServerConfig.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: SmtpServerConfig
     path: ../EmailLib/Framework/SmtpServerConfig.cs
     startLine: 8
@@ -66,8 +66,8 @@ items:
   source:
     remote:
       path: EmailLib/Framework/SmtpServerConfig.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Account
     path: ../EmailLib/Framework/SmtpServerConfig.cs
     startLine: 10
@@ -101,8 +101,8 @@ items:
   source:
     remote:
       path: EmailLib/Framework/SmtpServerConfig.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Password
     path: ../EmailLib/Framework/SmtpServerConfig.cs
     startLine: 11
@@ -136,8 +136,8 @@ items:
   source:
     remote:
       path: EmailLib/Framework/SmtpServerConfig.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Host
     path: ../EmailLib/Framework/SmtpServerConfig.cs
     startLine: 12
@@ -171,8 +171,8 @@ items:
   source:
     remote:
       path: EmailLib/Framework/SmtpServerConfig.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Port
     path: ../EmailLib/Framework/SmtpServerConfig.cs
     startLine: 13
@@ -206,8 +206,8 @@ items:
   source:
     remote:
       path: EmailLib/Framework/SmtpServerConfig.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: DeliveryMethod
     path: ../EmailLib/Framework/SmtpServerConfig.cs
     startLine: 14
@@ -241,8 +241,8 @@ items:
   source:
     remote:
       path: EmailLib/Framework/SmtpServerConfig.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: UseDefaultCredentials
     path: ../EmailLib/Framework/SmtpServerConfig.cs
     startLine: 15
@@ -276,8 +276,8 @@ items:
   source:
     remote:
       path: EmailLib/Framework/SmtpServerConfig.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: EnableSsl
     path: ../EmailLib/Framework/SmtpServerConfig.cs
     startLine: 16
@@ -311,8 +311,8 @@ items:
   source:
     remote:
       path: EmailLib/Framework/SmtpServerConfig.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: op_Equality
     path: ../EmailLib/Framework/SmtpServerConfig.cs
     startLine: 18
@@ -350,8 +350,8 @@ items:
   source:
     remote:
       path: EmailLib/Framework/SmtpServerConfig.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: op_Inequality
     path: ../EmailLib/Framework/SmtpServerConfig.cs
     startLine: 40
@@ -389,8 +389,8 @@ items:
   source:
     remote:
       path: EmailLib/Framework/SmtpServerConfig.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Equals
     path: ../EmailLib/Framework/SmtpServerConfig.cs
     startLine: 44
@@ -427,8 +427,8 @@ items:
   source:
     remote:
       path: EmailLib/Framework/SmtpServerConfig.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Equals
     path: ../EmailLib/Framework/SmtpServerConfig.cs
     startLine: 48
@@ -462,8 +462,8 @@ items:
   source:
     remote:
       path: EmailLib/Framework/SmtpServerConfig.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: GetHashCode
     path: ../EmailLib/Framework/SmtpServerConfig.cs
     startLine: 75

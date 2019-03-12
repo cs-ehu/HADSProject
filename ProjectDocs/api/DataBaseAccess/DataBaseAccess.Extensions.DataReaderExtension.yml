@@ -18,8 +18,8 @@ items:
   source:
     remote:
       path: DataBaseAccess/Framework/DataReaderExtension.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: DataReaderExtension
     path: ../DataBaseAccess/Framework/DataReaderExtension.cs
     startLine: 8
@@ -61,8 +61,8 @@ items:
   source:
     remote:
       path: DataBaseAccess/Framework/DataReaderExtension.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Select
     path: ../DataBaseAccess/Framework/DataReaderExtension.cs
     startLine: 10
@@ -109,8 +109,8 @@ items:
   source:
     remote:
       path: DataBaseAccess/Framework/DataReaderExtension.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: GetDataDictionary
     path: ../DataBaseAccess/Framework/DataReaderExtension.cs
     startLine: 16
@@ -150,8 +150,8 @@ items:
   source:
     remote:
       path: DataBaseAccess/Framework/DataReaderExtension.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: GetDataRecords
     path: ../DataBaseAccess/Framework/DataReaderExtension.cs
     startLine: 22

@@ -26,8 +26,8 @@ items:
   source:
     remote:
       path: WebApplication/Framework/AlertLevel.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: AlertLevel
     path: ../WebApplication/Framework/AlertLevel.cs
     startLine: 11
@@ -70,8 +70,8 @@ items:
   source:
     remote:
       path: WebApplication/Framework/AlertLevel.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: None
     path: ../WebApplication/Framework/AlertLevel.cs
     startLine: 18
@@ -105,8 +105,8 @@ items:
   source:
     remote:
       path: WebApplication/Framework/AlertLevel.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Primary
     path: ../WebApplication/Framework/AlertLevel.cs
     startLine: 19
@@ -140,8 +140,8 @@ items:
   source:
     remote:
       path: WebApplication/Framework/AlertLevel.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Secondary
     path: ../WebApplication/Framework/AlertLevel.cs
     startLine: 20
@@ -175,8 +175,8 @@ items:
   source:
     remote:
       path: WebApplication/Framework/AlertLevel.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Success
     path: ../WebApplication/Framework/AlertLevel.cs
     startLine: 21
@@ -210,8 +210,8 @@ items:
   source:
     remote:
       path: WebApplication/Framework/AlertLevel.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Danger
     path: ../WebApplication/Framework/AlertLevel.cs
     startLine: 22
@@ -245,8 +245,8 @@ items:
   source:
     remote:
       path: WebApplication/Framework/AlertLevel.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Warning
     path: ../WebApplication/Framework/AlertLevel.cs
     startLine: 23
@@ -280,8 +280,8 @@ items:
   source:
     remote:
       path: WebApplication/Framework/AlertLevel.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Info
     path: ../WebApplication/Framework/AlertLevel.cs
     startLine: 24
@@ -315,8 +315,8 @@ items:
   source:
     remote:
       path: WebApplication/Framework/AlertLevel.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Light
     path: ../WebApplication/Framework/AlertLevel.cs
     startLine: 25
@@ -350,8 +350,8 @@ items:
   source:
     remote:
       path: WebApplication/Framework/AlertLevel.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Dark
     path: ../WebApplication/Framework/AlertLevel.cs
     startLine: 26
@@ -385,8 +385,8 @@ items:
   source:
     remote:
       path: WebApplication/Framework/AlertLevel.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: ToString
     path: ../WebApplication/Framework/AlertLevel.cs
     startLine: 34
@@ -420,8 +420,8 @@ items:
   source:
     remote:
       path: WebApplication/Framework/AlertLevel.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: op_Explicit
     path: ../WebApplication/Framework/AlertLevel.cs
     startLine: 38

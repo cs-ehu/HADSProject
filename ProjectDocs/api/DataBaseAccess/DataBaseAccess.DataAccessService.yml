@@ -22,8 +22,8 @@ items:
   source:
     remote:
       path: DataBaseAccess/Framework/DataAccessService.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: DataAccessService
     path: ../DataBaseAccess/Framework/DataAccessService.cs
     startLine: 9
@@ -67,11 +67,11 @@ items:
   source:
     remote:
       path: DataBaseAccess/Framework/DataAccessService.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: ConnectionString
     path: ../DataBaseAccess/Framework/DataAccessService.cs
-    startLine: 12
+    startLine: 11
   assemblies:
   - DataBaseAccess
   namespace: DataBaseAccess
@@ -106,11 +106,11 @@ items:
   source:
     remote:
       path: DataBaseAccess/Framework/DataAccessService.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: .ctor
     path: ../DataBaseAccess/Framework/DataAccessService.cs
-    startLine: 14
+    startLine: 13
   assemblies:
   - DataBaseAccess
   namespace: DataBaseAccess
@@ -139,11 +139,11 @@ items:
   source:
     remote:
       path: DataBaseAccess/Framework/DataAccessService.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: NonQuery
     path: ../DataBaseAccess/Framework/DataAccessService.cs
-    startLine: 19
+    startLine: 17
   assemblies:
   - DataBaseAccess
   namespace: DataBaseAccess
@@ -189,11 +189,11 @@ items:
   source:
     remote:
       path: DataBaseAccess/Framework/DataAccessService.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Query
     path: ../DataBaseAccess/Framework/DataAccessService.cs
-    startLine: 38
+    startLine: 35
   assemblies:
   - DataBaseAccess
   namespace: DataBaseAccess
@@ -213,7 +213,6 @@ items:
       description: Indicates how the query string will be interpreted. The default is <xref href="System.Data.CommandType.Text" data-throw-if-not-resolved="false"></xref>
     return:
       type: DataBaseAccess.QueryResult
-      description: A collection of rows returned by the query
     content.vb: Public Function Query(query As String, parameters As Dictionary(Of String, Object) = Nothing, commandType As CommandType = CommandType.Text) As QueryResult
   overload: DataBaseAccess.DataAccessService.Query*
   implements:
@@ -239,11 +238,11 @@ items:
   source:
     remote:
       path: DataBaseAccess/Framework/DataAccessService.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Scalar
     path: ../DataBaseAccess/Framework/DataAccessService.cs
-    startLine: 59
+    startLine: 55
   assemblies:
   - DataBaseAccess
   namespace: DataBaseAccess
@@ -1081,133 +1080,6 @@ references:
   fullName: DataBaseAccess.DataAccessService.Scalar
 - uid: DataBaseAccess.IDataAccessService.Scalar``1(System.String,System.Collections.Generic.Dictionary{System.String,System.Object},System.Data.CommandType)
   commentId: M:DataBaseAccess.IDataAccessService.Scalar``1(System.String,System.Collections.Generic.Dictionary{System.String,System.Object},System.Data.CommandType)
-  parent: DataBaseAccess.IDataAccessService
-  isExternal: true
-  name: Scalar<T>(String, Dictionary<String, Object>, CommandType)
-  nameWithType: IDataAccessService.Scalar<T>(String, Dictionary<String, Object>, CommandType)
-  fullName: DataBaseAccess.IDataAccessService.Scalar<T>(System.String, System.Collections.Generic.Dictionary<System.String, System.Object>, System.Data.CommandType)
-  nameWithType.vb: IDataAccessService.Scalar(Of T)(String, Dictionary(Of String, Object), CommandType)
-  fullName.vb: DataBaseAccess.IDataAccessService.Scalar(Of T)(System.String, System.Collections.Generic.Dictionary(Of System.String, System.Object), System.Data.CommandType)
-  name.vb: Scalar(Of T)(String, Dictionary(Of String, Object), CommandType)
-  spec.csharp:
-  - uid: DataBaseAccess.IDataAccessService.Scalar``1(System.String,System.Collections.Generic.Dictionary{System.String,System.Object},System.Data.CommandType)
-    name: Scalar<T>
-    nameWithType: IDataAccessService.Scalar<T>
-    fullName: DataBaseAccess.IDataAccessService.Scalar<T>
-  - name: (
-    nameWithType: (
-    fullName: (
-  - uid: System.String
-    name: String
-    nameWithType: String
-    fullName: System.String
-    isExternal: true
-  - name: ', '
-    nameWithType: ', '
-    fullName: ', '
-  - uid: System.Collections.Generic.Dictionary`2
-    name: Dictionary
-    nameWithType: Dictionary
-    fullName: System.Collections.Generic.Dictionary
-    isExternal: true
-  - name: <
-    nameWithType: <
-    fullName: <
-  - uid: System.String
-    name: String
-    nameWithType: String
-    fullName: System.String
-    isExternal: true
-  - name: ', '
-    nameWithType: ', '
-    fullName: ', '
-  - uid: System.Object
-    name: Object
-    nameWithType: Object
-    fullName: System.Object
-    isExternal: true
-  - name: '>'
-    nameWithType: '>'
-    fullName: '>'
-  - name: ', '
-    nameWithType: ', '
-    fullName: ', '
-  - uid: System.Data.CommandType
-    name: CommandType
-    nameWithType: CommandType
-    fullName: System.Data.CommandType
-    isExternal: true
-  - name: )
-    nameWithType: )
-    fullName: )
-  spec.vb:
-  - uid: DataBaseAccess.IDataAccessService.Scalar``1(System.String,System.Collections.Generic.Dictionary{System.String,System.Object},System.Data.CommandType)
-    name: Scalar(Of T)
-    nameWithType: IDataAccessService.Scalar(Of T)
-    fullName: DataBaseAccess.IDataAccessService.Scalar(Of T)
-  - name: (
-    nameWithType: (
-    fullName: (
-  - uid: System.String
-    name: String
-    nameWithType: String
-    fullName: System.String
-    isExternal: true
-  - name: ', '
-    nameWithType: ', '
-    fullName: ', '
-  - uid: System.Collections.Generic.Dictionary`2
-    name: Dictionary
-    nameWithType: Dictionary
-    fullName: System.Collections.Generic.Dictionary
-    isExternal: true
-  - name: '(Of '
-    nameWithType: '(Of '
-    fullName: '(Of '
-  - uid: System.String
-    name: String
-    nameWithType: String
-    fullName: System.String
-    isExternal: true
-  - name: ', '
-    nameWithType: ', '
-    fullName: ', '
-  - uid: System.Object
-    name: Object
-    nameWithType: Object
-    fullName: System.Object
-    isExternal: true
-  - name: )
-    nameWithType: )
-    fullName: )
-  - name: ', '
-    nameWithType: ', '
-    fullName: ', '
-  - uid: System.Data.CommandType
-    name: CommandType
-    nameWithType: CommandType
-    fullName: System.Data.CommandType
-    isExternal: true
-  - name: )
-    nameWithType: )
-    fullName: )
-- uid: '{T}'
-  commentId: '!:T'
-  definition: T
-  name: T
-  nameWithType: T
-  fullName: T
-- uid: T
-  name: T
-  nameWithType: T
-  fullName: T
-- uid: DataBaseAccess.DataAccessService.CreateQueryDataTable*
-  commentId: Overload:DataBaseAccess.DataAccessService.CreateQueryDataTable
-  name: CreateQueryDataTable
-  nameWithType: DataAccessService.CreateQueryDataTable
-  fullName: DataBaseAccess.DataAccessService.CreateQueryDataTable
-- uid: DataBaseAccess.IDataAccessService.CreateQueryDataTable(System.String,System.Collections.Generic.Dictionary{System.String,System.Object},System.Data.CommandType)
-  commentId: M:DataBaseAccess.IDataAccessService.CreateQueryDataTable(System.String,System.Collections.Generic.Dictionary{System.String,System.Object},System.Data.CommandType)
   parent: DataBaseAccess.IDataAccessService
   isExternal: true
   name: CreateQueryDataTable(String, Dictionary<String, Object>, CommandType)

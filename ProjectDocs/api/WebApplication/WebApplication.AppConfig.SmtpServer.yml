@@ -22,8 +22,8 @@ items:
   source:
     remote:
       path: WebApplication/AppConfig.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: SmtpServer
     path: ../WebApplication/AppConfig.cs
     startLine: 13
@@ -64,8 +64,8 @@ items:
   source:
     remote:
       path: WebApplication/AppConfig.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Account
     path: ../WebApplication/AppConfig.cs
     startLine: 18
@@ -103,8 +103,8 @@ items:
   source:
     remote:
       path: WebApplication/AppConfig.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Password
     path: ../WebApplication/AppConfig.cs
     startLine: 23
@@ -142,8 +142,8 @@ items:
   source:
     remote:
       path: WebApplication/AppConfig.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Host
     path: ../WebApplication/AppConfig.cs
     startLine: 28
@@ -181,8 +181,8 @@ items:
   source:
     remote:
       path: WebApplication/AppConfig.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Port
     path: ../WebApplication/AppConfig.cs
     startLine: 33
@@ -220,8 +220,8 @@ items:
   source:
     remote:
       path: WebApplication/AppConfig.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: DeliveryMethod
     path: ../WebApplication/AppConfig.cs
     startLine: 38
@@ -259,8 +259,8 @@ items:
   source:
     remote:
       path: WebApplication/AppConfig.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: UseDefaultCredentials
     path: ../WebApplication/AppConfig.cs
     startLine: 43
@@ -298,8 +298,8 @@ items:
   source:
     remote:
       path: WebApplication/AppConfig.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: EnableSsl
     path: ../WebApplication/AppConfig.cs
     startLine: 48

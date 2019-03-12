@@ -19,8 +19,8 @@ items:
   source:
     remote:
       path: WebApplication/Framework/ParametizedUrl.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: ParametizedUrl
     path: ../WebApplication/Framework/ParametizedUrl.cs
     startLine: 10
@@ -115,8 +115,8 @@ items:
   source:
     remote:
       path: WebApplication/Framework/ParametizedUrl.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Url
     path: ../WebApplication/Framework/ParametizedUrl.cs
     startLine: 12
@@ -150,8 +150,8 @@ items:
   source:
     remote:
       path: WebApplication/Framework/ParametizedUrl.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: .ctor
     path: ../WebApplication/Framework/ParametizedUrl.cs
     startLine: 14
@@ -183,8 +183,8 @@ items:
   source:
     remote:
       path: WebApplication/Framework/ParametizedUrl.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: ToString
     path: ../WebApplication/Framework/ParametizedUrl.cs
     startLine: 29
@@ -218,8 +218,8 @@ items:
   source:
     remote:
       path: WebApplication/Framework/ParametizedUrl.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: op_Implicit
     path: ../WebApplication/Framework/ParametizedUrl.cs
     startLine: 48

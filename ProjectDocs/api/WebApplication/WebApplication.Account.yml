@@ -20,11 +20,11 @@ items:
   type: Class
   source:
     remote:
-      path: WebApplication/Account.Master.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      path: WebApplication/Account.master.designer.cs
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Account
-    path: ../WebApplication/Account.Master.designer.cs
+    path: ../WebApplication/Account.master.designer.cs
     startLine: 12
   assemblies:
   - WebApplication
@@ -236,12 +236,12 @@ items:
   type: Method
   source:
     remote:
-      path: WebApplication/Account.Master.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      path: WebApplication/Account.master.cs
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Page_Load
-    path: ../WebApplication/Account.Master.cs
-    startLine: 16
+    path: ../WebApplication/Account.master.cs
+    startLine: 9
   assemblies:
   - WebApplication
   namespace: WebApplication
@@ -304,11 +304,11 @@ items:
   type: Field
   source:
     remote:
-      path: WebApplication/Account.Master.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
-    id: LogIn
-    path: ../WebApplication/Account.Master.designer.cs
+      path: WebApplication/Account.master.designer.cs
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
+    id: logIn
+    path: ../WebApplication/Account.master.designer.cs
     startLine: 21
   assemblies:
   - WebApplication
@@ -338,11 +338,11 @@ items:
   type: Field
   source:
     remote:
-      path: WebApplication/Account.Master.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
-    id: CreateAccount
-    path: ../WebApplication/Account.Master.designer.cs
+      path: WebApplication/Account.master.designer.cs
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
+    id: createAccount
+    path: ../WebApplication/Account.master.designer.cs
     startLine: 30
   assemblies:
   - WebApplication
@@ -372,11 +372,11 @@ items:
   type: Field
   source:
     remote:
-      path: WebApplication/Account.Master.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      path: WebApplication/Account.master.designer.cs
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: AccountCardBodyContent
-    path: ../WebApplication/Account.Master.designer.cs
+    path: ../WebApplication/Account.master.designer.cs
     startLine: 39
   assemblies:
   - WebApplication

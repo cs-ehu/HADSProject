@@ -16,8 +16,8 @@ items:
   source:
     remote:
       path: WebApplication/Framework/Extensions/DictionaryExtension.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: DictionaryExtension
     path: ../WebApplication/Framework/Extensions/DictionaryExtension.cs
     startLine: 9
@@ -59,8 +59,8 @@ items:
   source:
     remote:
       path: WebApplication/Framework/Extensions/DictionaryExtension.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Add
     path: ../WebApplication/Framework/Extensions/DictionaryExtension.cs
     startLine: 30

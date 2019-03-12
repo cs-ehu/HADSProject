@@ -20,8 +20,8 @@ items:
   source:
     remote:
       path: DataBaseAccess/Framework/IDataAccessService.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: IDataAccessService
     path: ../DataBaseAccess/Framework/IDataAccessService.cs
     startLine: 6
@@ -51,11 +51,11 @@ items:
   source:
     remote:
       path: DataBaseAccess/Framework/IDataAccessService.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: ConnectionString
     path: ../DataBaseAccess/Framework/IDataAccessService.cs
-    startLine: 11
+    startLine: 8
   assemblies:
   - DataBaseAccess
   namespace: DataBaseAccess
@@ -86,11 +86,11 @@ items:
   source:
     remote:
       path: DataBaseAccess/Framework/IDataAccessService.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: NonQuery
     path: ../DataBaseAccess/Framework/IDataAccessService.cs
-    startLine: 23
+    startLine: 20
   assemblies:
   - DataBaseAccess
   namespace: DataBaseAccess
@@ -130,11 +130,11 @@ items:
   source:
     remote:
       path: DataBaseAccess/Framework/IDataAccessService.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Query
     path: ../DataBaseAccess/Framework/IDataAccessService.cs
-    startLine: 33
+    startLine: 30
   assemblies:
   - DataBaseAccess
   namespace: DataBaseAccess
@@ -174,11 +174,11 @@ items:
   source:
     remote:
       path: DataBaseAccess/Framework/IDataAccessService.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Scalar
     path: ../DataBaseAccess/Framework/IDataAccessService.cs
-    startLine: 44
+    startLine: 41
   assemblies:
   - DataBaseAccess
   namespace: DataBaseAccess

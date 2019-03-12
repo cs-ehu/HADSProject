@@ -19,8 +19,8 @@ items:
   source:
     remote:
       path: WebApplication/Utils/UrlUtils.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: UrlUtils
     path: ../WebApplication/Utils/UrlUtils.cs
     startLine: 8
@@ -61,8 +61,8 @@ items:
   source:
     remote:
       path: WebApplication/Utils/UrlUtils.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: UrlRoot
     path: ../WebApplication/Utils/UrlUtils.cs
     startLine: 13
@@ -100,8 +100,8 @@ items:
   source:
     remote:
       path: WebApplication/Utils/UrlUtils.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: VirtualPath
     path: ../WebApplication/Utils/UrlUtils.cs
     startLine: 25
@@ -141,8 +141,8 @@ items:
   source:
     remote:
       path: WebApplication/Utils/UrlUtils.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: ApplicationFolder
     path: ../WebApplication/Utils/UrlUtils.cs
     startLine: 45
@@ -180,8 +180,8 @@ items:
   source:
     remote:
       path: WebApplication/Utils/UrlUtils.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: RedirectWithData
     path: ../WebApplication/Utils/UrlUtils.cs
     startLine: 69

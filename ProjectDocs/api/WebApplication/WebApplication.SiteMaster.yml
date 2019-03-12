@@ -29,8 +29,8 @@ items:
   source:
     remote:
       path: WebApplication/Site.Master.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: SiteMaster
     path: ../WebApplication/Site.Master.designer.cs
     startLine: 12
@@ -246,11 +246,11 @@ items:
   source:
     remote:
       path: WebApplication/Site.Master.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Page_Load
     path: ../WebApplication/Site.Master.cs
-    startLine: 9
+    startLine: 8
   assemblies:
   - WebApplication
   namespace: WebApplication
@@ -281,11 +281,11 @@ items:
   source:
     remote:
       path: WebApplication/Site.Master.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: ButtonProfile_Click
     path: ../WebApplication/Site.Master.cs
-    startLine: 29
+    startLine: 28
   assemblies:
   - WebApplication
   namespace: WebApplication
@@ -316,11 +316,11 @@ items:
   source:
     remote:
       path: WebApplication/Site.Master.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: ButtonSignOut_Click
     path: ../WebApplication/Site.Master.cs
-    startLine: 33
+    startLine: 32
   assemblies:
   - WebApplication
   namespace: WebApplication
@@ -351,8 +351,8 @@ items:
   source:
     remote:
       path: WebApplication/Site.Master.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: userMenu
     path: ../WebApplication/Site.Master.designer.cs
     startLine: 21
@@ -385,8 +385,8 @@ items:
   source:
     remote:
       path: WebApplication/Site.Master.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: createAccountLink
     path: ../WebApplication/Site.Master.designer.cs
     startLine: 30
@@ -419,8 +419,8 @@ items:
   source:
     remote:
       path: WebApplication/Site.Master.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: loginLink
     path: ../WebApplication/Site.Master.designer.cs
     startLine: 39
@@ -453,8 +453,8 @@ items:
   source:
     remote:
       path: WebApplication/Site.Master.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: loggedUserMenu
     path: ../WebApplication/Site.Master.designer.cs
     startLine: 48
@@ -487,8 +487,8 @@ items:
   source:
     remote:
       path: WebApplication/Site.Master.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: LabelName
     path: ../WebApplication/Site.Master.designer.cs
     startLine: 57
@@ -521,8 +521,8 @@ items:
   source:
     remote:
       path: WebApplication/Site.Master.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: LabelLastName
     path: ../WebApplication/Site.Master.designer.cs
     startLine: 66
@@ -555,8 +555,8 @@ items:
   source:
     remote:
       path: WebApplication/Site.Master.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: LabelMail
     path: ../WebApplication/Site.Master.designer.cs
     startLine: 75
@@ -589,8 +589,8 @@ items:
   source:
     remote:
       path: WebApplication/Site.Master.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: ButtonViewProfile
     path: ../WebApplication/Site.Master.designer.cs
     startLine: 84
@@ -623,8 +623,8 @@ items:
   source:
     remote:
       path: WebApplication/Site.Master.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: ButtonSignOut
     path: ../WebApplication/Site.Master.designer.cs
     startLine: 93
@@ -657,8 +657,8 @@ items:
   source:
     remote:
       path: WebApplication/Site.Master.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: MainContent
     path: ../WebApplication/Site.Master.designer.cs
     startLine: 102
@@ -691,8 +691,8 @@ items:
   source:
     remote:
       path: WebApplication/Site.Master.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: NotificationContent
     path: ../WebApplication/Site.Master.designer.cs
     startLine: 111

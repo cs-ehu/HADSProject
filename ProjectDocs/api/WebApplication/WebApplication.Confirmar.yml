@@ -16,8 +16,8 @@ items:
   source:
     remote:
       path: WebApplication/Confirmar.aspx.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Confirmar
     path: ../WebApplication/Confirmar.aspx.cs
     startLine: 9
@@ -305,8 +305,8 @@ items:
   source:
     remote:
       path: WebApplication/Confirmar.aspx.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Page_Load
     path: ../WebApplication/Confirmar.aspx.cs
     startLine: 13

@@ -32,8 +32,8 @@ items:
   source:
     remote:
       path: WebApplication/Registro.aspx.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Registro
     path: ../WebApplication/Registro.aspx.designer.cs
     startLine: 12
@@ -320,8 +320,8 @@ items:
   source:
     remote:
       path: WebApplication/Registro.aspx.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: Page_Load
     path: ../WebApplication/Registro.aspx.cs
     startLine: 27
@@ -355,11 +355,11 @@ items:
   source:
     remote:
       path: WebApplication/Registro.aspx.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: ButtonCreateAccount_Click
     path: ../WebApplication/Registro.aspx.cs
-    startLine: 50
+    startLine: 48
   assemblies:
   - WebApplication
   namespace: WebApplication
@@ -390,8 +390,8 @@ items:
   source:
     remote:
       path: WebApplication/Registro.aspx.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: textBoxName
     path: ../WebApplication/Registro.aspx.designer.cs
     startLine: 21
@@ -424,8 +424,8 @@ items:
   source:
     remote:
       path: WebApplication/Registro.aspx.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: RequiredFieldName
     path: ../WebApplication/Registro.aspx.designer.cs
     startLine: 30
@@ -458,8 +458,8 @@ items:
   source:
     remote:
       path: WebApplication/Registro.aspx.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: textBoxLastName
     path: ../WebApplication/Registro.aspx.designer.cs
     startLine: 39
@@ -492,8 +492,8 @@ items:
   source:
     remote:
       path: WebApplication/Registro.aspx.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: RequiredFieldLastName
     path: ../WebApplication/Registro.aspx.designer.cs
     startLine: 48
@@ -526,8 +526,8 @@ items:
   source:
     remote:
       path: WebApplication/Registro.aspx.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: textBoxEmail
     path: ../WebApplication/Registro.aspx.designer.cs
     startLine: 57
@@ -560,8 +560,8 @@ items:
   source:
     remote:
       path: WebApplication/Registro.aspx.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: RequiredFieldEmail
     path: ../WebApplication/Registro.aspx.designer.cs
     startLine: 66
@@ -594,8 +594,8 @@ items:
   source:
     remote:
       path: WebApplication/Registro.aspx.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: EmailRegExpr
     path: ../WebApplication/Registro.aspx.designer.cs
     startLine: 75
@@ -628,8 +628,8 @@ items:
   source:
     remote:
       path: WebApplication/Registro.aspx.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: textBoxPassword
     path: ../WebApplication/Registro.aspx.designer.cs
     startLine: 84
@@ -662,8 +662,8 @@ items:
   source:
     remote:
       path: WebApplication/Registro.aspx.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: RequiredFieldPassword
     path: ../WebApplication/Registro.aspx.designer.cs
     startLine: 93
@@ -696,8 +696,8 @@ items:
   source:
     remote:
       path: WebApplication/Registro.aspx.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: textBoxRepeatPassword
     path: ../WebApplication/Registro.aspx.designer.cs
     startLine: 102
@@ -730,8 +730,8 @@ items:
   source:
     remote:
       path: WebApplication/Registro.aspx.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: RequiredFieldRepeatPassword
     path: ../WebApplication/Registro.aspx.designer.cs
     startLine: 111
@@ -764,8 +764,8 @@ items:
   source:
     remote:
       path: WebApplication/Registro.aspx.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: CompareRepeatPassword
     path: ../WebApplication/Registro.aspx.designer.cs
     startLine: 120
@@ -798,8 +798,8 @@ items:
   source:
     remote:
       path: WebApplication/Registro.aspx.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: dropDownRol
     path: ../WebApplication/Registro.aspx.designer.cs
     startLine: 129
@@ -832,8 +832,8 @@ items:
   source:
     remote:
       path: WebApplication/Registro.aspx.designer.cs
-      branch: FerMod
-      repo: git@github.com:FerMod/HADSProject.git
+      branch: master
+      repo: git@github.com:cs-ehu/HADSProject-Fork.git
     id: buttonCreateAccount
     path: ../WebApplication/Registro.aspx.designer.cs
     startLine: 138
